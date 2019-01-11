@@ -7,6 +7,5 @@ public class PropertiesUtils {
 	
 	public static String GetString(String key) {
 		return pps.getProperty(key);
-		
 	}
 }
